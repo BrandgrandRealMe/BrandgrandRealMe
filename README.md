@@ -1,16 +1,27 @@
 ### Hi there 👋
+```js
+var Me = "Brandon"
 
-<!--
-**BrandgrandRealMe/BrandgrandRealMe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+class About extends Me {
+  constructor() {
+    this.username = "BrandgrandReal";
+    this.discord = "BrandgrandReal#3131";
+    this.gender = "Male";
+  }
+  whoAmI() {
+    return ["coding enthusiast", "gamer", "high school student"];
+  }
+  whatIDo() {
+    return ["build websites", "Make discord bots", "have fun"];
+  }
+  languages() {
+    return ["JavaScript", "HTML", "CSS"];
+  }
+  tech() {
+    return ["Node.js", "npm", "discord.js"];
+  }
+  interestingFacts() {
+    return ["self taught", "started with html and JS"];
+  }
+} 
+```
