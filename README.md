@@ -1,6 +1,6 @@
 ### Hi there 👋
 ```js
-class Me {
+class AboutMe {
   constructor() {
     this.name = "Brandon";
     this.username = "BrandgrandReal";
