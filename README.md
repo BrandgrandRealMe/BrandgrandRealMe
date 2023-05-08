@@ -1,9 +1,8 @@
 ### Hi there 👋
 ```js
-var Me = "Brandon"
-
-class About extends Me {
+class Me {
   constructor() {
+    this.name = "Brandon";
     this.username = "BrandgrandReal";
     this.discord = "BrandgrandReal#3131";
     this.gender = "Male";
