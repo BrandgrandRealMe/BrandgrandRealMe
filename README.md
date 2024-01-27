@@ -11,7 +11,7 @@ class AboutMe {
     return ["coding enthusiast", "gamer", "high school student"];
   }
   whatIDo() {
-    return ["build websites", "Make discord bots", "have fun"];
+    return ["build websites", "Make chat bots", "have fun"];
   }
   languages() {
     return ["JavaScript", "HTML", "CSS"];
