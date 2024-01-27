@@ -4,7 +4,7 @@ class AboutMe {
   constructor() {
     this.name = "Brandon";
     this.username = "BrandgrandReal";
-    this.discord = "BrandgrandReal#3131";
+    this.discord = "BrandgrandReal";
     this.gender = "Male";
   }
   whoAmI() {
