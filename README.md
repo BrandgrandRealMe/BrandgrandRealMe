@@ -1,4 +1,5 @@
 ### Hi there 👋
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3WDZYV)
 ```js
 class AboutMe {
   constructor() {
