@@ -28,7 +28,7 @@ class AboutMe {
 
 ```js
 function getInTouch() {
-  var name = "Brandon Lambe";
+  var name = "Brandon";
   var whatIDo = "JS Programmer";
   var email = "BrandonTheDev@proton.me" || "brandon@brandgrand.rocks";
   var portfolio = "why.brandgrand.rocks";
