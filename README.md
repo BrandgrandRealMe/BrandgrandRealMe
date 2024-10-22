@@ -25,3 +25,13 @@ class AboutMe {
   }
 } 
 ```
+
+```js
+function getInTouch() {
+  var name = "Brandon Lambe";
+  var whatIDo = "JS Programmer";
+  var email = "BrandonTheDev@proton.me" || "brandon@brandgrand.rocks";
+  var portfolio = "why.brandgrand.rocks";
+}
+getInTouch();
+```
