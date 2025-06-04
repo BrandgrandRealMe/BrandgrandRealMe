@@ -9,7 +9,7 @@ class AboutMe {
     this.gender = "Male";
   }
   whoAmI() {
-    return ["coding enthusiast", "gamer", "high school student"];
+    return ["coding enthusiast", "gamer", "Graphic Designer"];
   }
   whatIDo() {
     return ["build websites", "Make chat bots", "have fun"];
